@@ -1,0 +1,63 @@
+Amazon Web Services - Cloud Computing
+
+A computação em nuvem é um serviço de computação 
+baseado na Internet,no qual grandes grupos de 
+servidores remotos são conectados em rede para
+permitir o armazenamento centralizado de dados
+e o acesso online a serviços ou recursos de 
+computadores.
+
+Tipos de Nuvens
+- Nuvem pública: Na nuvem pública, os provedores
+de serviços terceirizadas disponibilizam recursos
+e serviços para seus clientes via Internet.
+Os dados do cliente e a segurança relacionada
+estão na infraestrutura de propriedade dos provedores
+de serviço.
+- Nuvem privada: Uma nuvem privada também fornece
+recursos quase semelhantes à nuvem pública, mas os
+dados e serviços são gerenciados pela organização
+ou pelo terceiro somente para organização do cliente.
+Nesse tipo de nuvem, o controle principal está
+na infra-estrutura para que os problemas relacionados
+à segurança sejam minimizados.
+- Nuvem híbrida: Uma nuvem híbrida é a combinação
+de nuvem privada e pública. A decisão de executar
+em nuvem privada ou pública geralmente depende
+de vários parâmetros, como a sensibilidade dos dados
+e dos aplicativos, as certificações do setor e os padrões,
+regulamentos, etc. necessários.
+
+Modelos de serviço em nuvem.
+-IaaS (Infra-estrutura como serviço): Ele fornece aos
+usuários a capacidade de fornecer processamento,
+armazenamento e conectividade de rede sob demanda.
+Usando esse modelo de serviço, os cliente podem
+desenvolver seus próprios aplicativos nesses recursos.
+-PaaS (Platforma como Serviço): Aqui, o provedor de serviços
+fornece vários serviços, como banco de dados, filas,
+mecanismos de fluxo de trabalo, e-mails, etc. para seus clientes.
+O cliente pode então susar esses componontes para
+criar seus próprios aplicativos. Os serviços, a disponibilidade
+de recursos e o backup de dados são gerenciados pelo
+provedor de serviçõs, o que ajud a os cliente a se
+concentrarem mais na funcionalidade de seus aplicativos.
+-SaaS (Software como Serviço): Aqui os provedores
+terceirizados fornecem aos usuários finais aplicativos
+para seus clientes com algum recurso administrativo no nível
+do aplicativo, como a capacidade de criar e gerenciar
+seus usuários. Também é possível algum nível de 
+personalização, como por exemplo, os clientes podem
+usar seus próprios logotipos corporatibos, cores etc.
+
+Vantagens
+- Custo-Eficiente: Pagamos apenas pelo valor que usamos.
+- Confiabilidade: 24*7 e 365 dias de serviço.
+- Armazenamento Ilimitado
+- Backup e Recuperação de dados
+- Fácil acesso à informação: Acesso de qualquer lugar.
+
+Desvantagens
+- Segurança
+- Técnicos (Sério se ocorrer)
+- Dificuldade de mudar provedores de serviços
