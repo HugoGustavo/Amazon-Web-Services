@@ -1,0 +1,69 @@
+Amazon Web Services - Basic Achitecture
+
+Balanceamento de carga significa simplemente para
+hardware ou software carregar sobre servidores da 
+web, que melhoram a eficiência do servidor, bem como
+o aplicativo.
+O Elastic Load Balacing pode aumentar e reduzir
+dinamicamente a capacidade de balancemento de carga 
+para ajustar-se às demandas de tráfego e também
+suporta sessões fixas para atender às necessidades
+de roteamento mais avançadas.
+
+
+Amazon Cloud-front
+É responsável pela entrega do conteúdo, ou seja,
+usado para entregar o site. Pode conter conteúdo
+dinâmico, estático e de fluxo contínuo
+usando uma rede global de localizações de borda.
+AS solicitações de conteúdo no final do usuário
+são roteadas automaticamente para o local de 
+borda mais próximo, o que melhora o desempenho.
+
+
+Balanceador Elástico de carga
+Ele é usado para distribuir o tráfego para servidores
+Web, o que melhora o desempenho. A AWS fornece o serviço
+Elastic Load Balacing, no qualo tráfego é distribuído 
+para as instâncias do EC2 em várias zonas disponíveis
+e a adição e remoção dinâmica de hosts do Amazon EC2
+a partir da rotação de balanceamento de carga.
+
+Gereniamento de segurança
+O Elastic Compute Cloud (EC2) da Amazon fornce um
+recurso chamdo grupos de segurança, que é semelhante
+a um firewall de rede de entrada, no qual temos que
+especificar os protocolos, portas e intervalos de IP
+de origem que podem atingirsuas instâncias do EC2.
+
+Caches Elásticos.
+O Amazon Elastic Cache é um serviço da web que gerencia
+o cache de memória na nuvem.
+
+Amazon RDS
+O Amazon RDS(Serviço de Banco de Dados Relacional) fornece
+um acesso semelhante ao do mecanismo de banco de dados MySQL,
+Oracle ou Microsofr SQL Server. AS mesmas consultas, aplicativos
+e ferramentas podem ser usados com o Amazon RDS.
+
+Hospedagem de RDMS e instâncias do EC2
+O Amazon RDS permite que os usários instalem o RDBMS
+(Sistema de Gerenciamento de Banco de Dados Relacional)
+de sua escolha, como MySQL, Oracle, SQL Server, DB2 etc., em uma
+instância do EC2 e podem gerenciar conforme necessário.
+
+Armazenamento e Backups.
+O Amazon S3 (Simple Storage Service) fornce uma interface
+simple de serviços da Web que pode ser usada para armazenas
+e recuperar qualquer quantidade de dados, a qualquer momento,
+de qualquer lugar na web.
+
+Auto Scaling
+A arquitetura AWS permite o dimensionamento dinamicamente
+a frota de aplicativos da Web sob demanda para lidar com
+as alterações no tráfego.
+
+Considerações
+- Nenhum dispositivo de rede física é necessário
+- Sem preocupações de segurança
+- Disponibilidade de Data Centers
